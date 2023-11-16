@@ -53,8 +53,12 @@ At SNR = 7,
 
 
 BER_16QAM = 0.2473
+
 At SNR = 15
+
 Number of bit errors = 4946
+
 Num of bits = 20000
+
 Modulation order = 16
 
